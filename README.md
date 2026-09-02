@@ -6,7 +6,7 @@ My personal collection of solved Codewars katas, tracked and updated manually.
 
 ## 📊 Codewars Stats
 
-![](https://shields.io)
+ **Profile:** [IZ-17 on Codewars](https://www.codewars.com/users/IZ-17)
 
 ---
 
