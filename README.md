@@ -13,6 +13,7 @@ My personal collection of solved Codewars katas, tracked and updated manually.
 ## 🚀 Solved Levels
 
 *   **4 kyu** — Advanced algorithms and complex logic.
+*   **5 kyu** — Core algorithms, data structures, and optimization.
 *   **6 kyu** — Intermediate problems and algorithmic thinking.
 *   **7 kyu** — Beginner-intermediate level challenges.
 *   **8 kyu** — Basic fundamentals and core syntax.
@@ -23,6 +24,9 @@ My personal collection of solved Codewars katas, tracked and updated manually.
 
 ### 🔴 4 Kyu
 *   *Add your 4 kyu katas here using the same format...*
+
+### 🟡 5 Kyu
+*   *Add your 5 kyu katas here using the HTML format...*
 
 ### 🟡 6 Kyu
 *   *Add your 6 kyu katas here using the same format...*
