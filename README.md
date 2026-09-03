@@ -26,7 +26,8 @@ My personal collection of solved Codewars katas, tracked and updated manually.
 *   *Add your 4 kyu katas here using the same format...*
 
 ### 🟡 5 Kyu
-*   *Add your 5 kyu katas here using the HTML format...*
+
+*  <p>👉 <b><a href="./5-kyu/">View Solutions</a></b></p>
 
 ### 🟡 6 Kyu
 
