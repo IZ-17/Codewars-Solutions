@@ -36,17 +36,7 @@ My personal collection of solved Codewars katas, tracked and updated manually.
 
 ### 🟢 8 Kyu
 
-* <h2><a href="https://codewars.com" target="_blank">Get Planet Name By ID</a></h2>
-  <h3>8 kyu</h3>
-  <p>The function is not returning the correct values. Can you figure out why?</p>
-  <p>Example (Input --&gt; Output): 3 --&gt; "Earth"</p>
-  <p>👉 <b><a href="./8-kyu/">View Solution</a></b></p>
-
-* <h2><a href="https://codewars.com" target="_blank">Jenny's secret message</a></h2>
-  <h3>8 kyu</h3>
-  <p>Jenny has written a function that returns a greeting for a user. However, she's in love with Johnny, and would like to greet him slightly different. She added a special case to her function, but she made a mistake.</p>
-  <p>Can you help her?</p>
-  <p>👉 <b><a href="./8-kyu/">View Solution</a></b></p>
+*  <p>👉 <b><a href="./8-kyu/">View Solutions</a></b></p>
 
 ---
 
