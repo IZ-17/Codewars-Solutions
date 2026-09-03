@@ -1,0 +1,1 @@
+<h2><a href=https://www.codewars.com/kata/515e188a311df01cba000003/train/python target="_blank">Get Planet Name By ID</a></h2><h3>8 kyu</h3><p>The function is not returning the correct values. Can you figure out why?</p><p>Example (<strong>Input</strong> --&gt; <strong>Output</strong> ):</p><pre><code>3 --&gt; "Earth"</code></pre>
