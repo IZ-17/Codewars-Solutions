@@ -1,1 +1,0 @@
-<h2><a href="https://www.codewars.com/kata/515e188a311df01cba000003" target="_blank">Get Planet Name By ID</a></h2><h3>8 kyu</h3><p>The function is not returning the correct values. Can you figure out why?</p><p>Example (Input --&gt; Output): 3 --&gt; "Earth"</p>
