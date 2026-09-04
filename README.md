@@ -1,6 +1,6 @@
 # 🥋 Codewars Solutions
 
-My personal collection of solved Codewars katas, tracked and updated manually.
+My personal collection of solved Codewars katas, automatically tracked and updated.
 
 ---
 
