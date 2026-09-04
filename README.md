@@ -23,7 +23,8 @@ My personal collection of solved Codewars katas, tracked and updated manually.
 ## 📂 Completed Katas
 
 ### 🔴 4 Kyu
-*   *Add your 4 kyu katas here using the same format...*
+
+*  <p>👉 <b><a href="./4-kyu/">View Solutions</a></b></p>
 
 ### 🟡 5 Kyu
 
