@@ -6,7 +6,7 @@ My personal collection of solved Codewars katas, automatically tracked and updat
 
 ## 📊 Codewars Stats
 
- **Profile:** [IZ-17 on Codewars](https://www.codewars.com/users/IZ-17)
+ **Profile:** [IZ-17 on Codewars](https://www.codewars.com/users/IZ-17) [![Codewars Badge](https://www.codewars.com/users/IZ-17/badges/micro)](https://www.codewars.com/users/IZ-17)
 
 ---
 
