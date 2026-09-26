@@ -1,0 +1,1 @@
+<h2><a href=https://www.codewars.com/kata/50654ddff44f800200000004/train/sql target="_blank">Multiply</a></h2><h3>8 kyu</h3><p><font dir="auto" style="vertical-align: inherit;"><font dir="auto" style="vertical-align: inherit;">Этот код не выполняется должным образом. Попробуйте выяснить причину.</font></font></p>
